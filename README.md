@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**syedyasir12/syedyasir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I'm currently working to be an Ai and Ml engineer.<br>🤝 I'm looking to collaborate on projects that can help me learn.<br>🌱 I`m currently learning python , git & github and maths.<br>💭 Ask me about things which are fun and knowlegable.<br>⚡ I am obsessed with foggy weather.
 
@@ -30,4 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=yasirali12&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
